@@ -18,6 +18,7 @@ buildscript {
     }
 }
 
+
 apply plugin: DependenciesGraphPlugin
 
 subprojects {
